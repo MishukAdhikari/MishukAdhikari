@@ -11,6 +11,12 @@
   <a href="https://mishukadhikari.github.io/mishuk.github.io/"><img src="https://img.shields.io/badge/CV-2026-334155?style=flat-square&logo=readthedocs&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MishukAdhikari?style=flat-square&logo=github&logoColor=white&label=followers&color=334155">
+  <img src="https://img.shields.io/github/stars/MishukAdhikari?style=flat-square&logo=github&logoColor=white&label=stars&color=334155">
+  <img src="https://img.shields.io/badge/Laravel%20Telescope-merged%20upstream-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+</p>
+
 ---
 
 I lead engineering on [xCloud](https://xcloud.host), a multi-cloud hosting and server-management
@@ -80,8 +86,7 @@ large managed hosting fleet.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MishukAdhikari&show_icons=true&hide_border=true&theme=transparent&hide=issues&card_width=430" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishukAdhikari&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="165">
+  <img src="https://streak-stats.demolab.com?user=MishukAdhikari&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" height="180">
 </p>
 
 <p align="center"><sub>
