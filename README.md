@@ -19,8 +19,8 @@
 
 ---
 
-I lead engineering on [xCloud](https://xcloud.host), a multi-cloud hosting and server-management
-platform running **100,000+ websites**. Provisioning across half a dozen providers, the public and
+I lead engineering on a multi-cloud hosting and server-management platform running
+**100,000+ websites**. Provisioning across half a dozen providers, the public and
 enterprise APIs, billing and subscription workflows, Linux operations, and the tooling the rest of
 the team builds on.
 
@@ -34,9 +34,9 @@ as its job requires, and every use of it is on the record.
 
 | System | What it does | How it stays safe |
 | --- | --- | --- |
-| **Pro Engineer** | Slack-based support-engineering agent. Picks up a case, gathers evidence, and hands a developer a finished investigation instead of a ticket. | Read paths only; escalates to a human rather than acting. |
-| **Agent Bridge** | Evidence layer for server-side investigation. Lets an agent reason about a live box without being able to change it. | Scoped, audited, structurally read-only — there is no mutation path to misuse. |
-| **Craft Mishuk** | Billing investigation agent wired to production data and Stripe. Reconstructs what actually happened to an account. | Reads freely, changes nothing without a human approving the specific change. |
+| **Diagnosis agent** | Slack-based support-engineering agent. Picks up a case, gathers evidence, and hands a developer a finished investigation instead of a ticket. | Read paths only; escalates to a human rather than acting. |
+| **Read-only evidence layer** | Evidence layer for server-side investigation. Lets an agent reason about a live box without being able to change it. | Scoped, audited, structurally read-only — there is no mutation path to misuse. |
+| **Billing agent** | Billing investigation agent wired to production data and Stripe. Reconstructs what actually happened to an account. | Reads freely, changes nothing without a human approving the specific change. |
 
 **How I build them**
 
@@ -51,8 +51,8 @@ as its job requires, and every use of it is on the record.
 
 | Project | What it is |
 | --- | --- |
-| **xCloud Platform** | Provisioning, APIs, billing, authentication, backups, domains, deployments and day-to-day infrastructure operations. |
-| **xCloud CLI & Terminal** | Public and enterprise API tooling with provider-agnostic AI support built in. |
+| **Hosting platform** | Provisioning, APIs, billing, authentication, backups, domains, deployments and day-to-day infrastructure operations. |
+| **CLI and terminal tooling** | Public and enterprise API tooling with provider-agnostic AI support built in. |
 | **Laravel Telescope** | Slow-query detection, merged upstream, plus a companion documentation contribution. |
 
 Also: multi-cloud provisioning abstractions, public/partner/enterprise API architecture with scoped
