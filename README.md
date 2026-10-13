@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://mishuk.me"><img src="https://img.shields.io/badge/Website-mishuk.me-0f172a?style=flat-square&logo=firefox-browser&logoColor=white"></a>
   <a href="https://linkedin.com/in/mishuk-adhikari"><img src="https://img.shields.io/badge/LinkedIn-mishuk--adhikari-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://mishukadhikari.github.io/mishuk.github.io/"><img src="https://img.shields.io/badge/CV-2026-334155?style=flat-square&logo=readthedocs&logoColor=white"></a>
 </p>
 
 <p align="center">
